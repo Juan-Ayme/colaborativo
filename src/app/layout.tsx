@@ -4,8 +4,8 @@ import { titleFont } from "@/config/fonts";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Restaurante de comidas",
-  description: "En este restaurante se sirven comidas deliciosas",
+  title: "Mikuy",
+  description: "Mikuy es una plataforma para compartir alimentos sobrantes de forma segura y ecológica",
 };
 
 export default function RootLayout({
